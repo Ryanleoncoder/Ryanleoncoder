@@ -37,6 +37,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/ryan-leonel-da-silva-cruz-1053262a9)
 
 ---
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHUxdTk5aDZ5bXAwa3k1bXlnemVhcHJ1OWtqNGdzcGRpejNtbHV0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif" width="300" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHUxdTk5aDZ5bXAwa3k1bXlnemVhcHJ1OWtqNGdzcGRpejNtbHV0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif" width="200" />
 
 **“A tecnologia é apenas uma ferramenta; o verdadeiro valor está no modo como a utilizamos.”**
