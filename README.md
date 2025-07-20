@@ -15,13 +15,7 @@
   - Inserção de emojis com base em regras de negócio
   - Preenchimento automático com base em datas ou condições
   - Automação para acompanhamentos de entrega de pedidos
-
-## 💼 Experiência Profissional
-
-### <img src="https://blog-forbusiness.vagas.com.br/wp-content/uploads/2020/07/logo-vivo.png" alt="Vivo Logo" width="30" style="vertical-align:middle" /> Vivo / Telefônica
-
-*Período: Maio/2024 início – Atualmente* 
-
+  - 
 ## 🛠️ Tecnologias e ferramentas que uso
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
