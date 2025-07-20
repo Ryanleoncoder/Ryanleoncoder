@@ -15,7 +15,7 @@
   - Inserção de emojis com base em regras de negócio
   - Preenchimento automático com base em datas ou condições
   - Automação para acompanhamentos de entrega de pedidos
-  - 
+
 ## 🛠️ Tecnologias e ferramentas que uso
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
