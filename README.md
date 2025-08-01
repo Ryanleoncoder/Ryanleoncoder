@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Ryan Leonel
+# 👋 Olá! Eu sou [Ryan Leonel](https://github.com/Ryanleoncoder)
 
 🎓 Estudante de ADS (conclusão prevista: 2027)  
 💻 Interesse nas áreas de **TI**, **Análise de Dados** e **Automação**  
@@ -16,6 +16,13 @@
   - Preenchimento automático com base em datas ou condições
   - Automação para acompanhamentos de entrega de pedidos
 
+<div align="center">
+  <a href="https://github.com/Ryanleoncoder">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryanleoncoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanleoncoder&layout=compact&langs_count=10&theme=dracula"/>
+  </a>
+</div>
+
 ## 🛠️ Tecnologias e ferramentas que uso
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -25,12 +32,10 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white)
 
-## 📫 Contato
-
-- ✉️ [leonelgon97@gmail.com](mailto:leonelgon97@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ryan-leonel-da-silva-cruz-1053262a9)
-
 ---
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHUxdTk5aDZ5bXAwa3k1bXlnemVhcHJ1OWtqNGdzcGRpejNtbHV0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif" width="200" />
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHUxdTk5aDZ5bXAwa3k1bXlnemVhcHJ1OWtqNGdzcGRpejNtbHV0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif" width="200" />
+</div>
 
-**“A tecnologia é apenas uma ferramenta; o verdadeiro valor está no modo como a utilizamos.”**
+<p align="center"><i>“A tecnologia é apenas uma ferramenta; o verdadeiro valor está no modo como a utilizamos.”</i></p>
+
