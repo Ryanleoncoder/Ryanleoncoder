@@ -16,12 +16,9 @@
   - Preenchimento automático com base em datas ou condições
   - Automação para acompanhamentos de entrega de pedidos
 
-<div align="center">
-  <a href="https://github.com/Ryanleoncoder">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Ryanleoncoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanleoncoder&layout=compact&langs_count=10&theme=dracula"/>
-  </a>
-</div>
+
+    <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryanleoncoder&theme=blueberry"/>
+
 
 ## 🛠️ Tecnologias e ferramentas que uso
 
