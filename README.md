@@ -7,19 +7,6 @@
 📚 Buscando constantemente novos aprendizados e desafios  
 🤝 Valorizo o trabalho em equipe, sou comunicativo, curioso e comprometido
 
-## 🚀 Projetos e automações
-
-- 🔄 Scripts em Python para **automação de planilhas**, **análise de preços** e **controle de vendas**
-- 📈 Projetos em Excel com **dashboards**, **análises semanais** e **indicadores visuais (emojis e formatações automáticas)**
-- 🧾 Automatizações em **VBA para Excel**, como:
-  - Inserção de emojis com base em regras de negócio
-  - Preenchimento automático com base em datas ou condições
-  - Automação para acompanhamentos de entrega de pedidos
-
-
-    <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryanleoncoder&theme=blueberry"/>
-
-
 ## 🛠️ Tecnologias e ferramentas que uso
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
