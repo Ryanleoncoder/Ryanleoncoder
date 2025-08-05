@@ -16,6 +16,12 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white)
 
+## 🚀 Projetos e Desafios Recentes
+
+- [Dashboard Xbox Game Pass](https://github.com/Ryanleoncoder/Dashboard_XBOX_GAME_PASS) - Dashboard interativo para análise de assinaturas Xbox Game Pass.
+- [Super Trunfo Pokemon](https://github.com/Ryanleoncoder/Super_trunfo_pokemon) - Super Trunfo versão pokemon (Em desenvolvimento).
+
+
 ---
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHUxdTk5aDZ5bXAwa3k1bXlnemVhcHJ1OWtqNGdzcGRpejNtbHV0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif" width="200" />
