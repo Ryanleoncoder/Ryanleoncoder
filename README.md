@@ -41,6 +41,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 </details>
 
+---
 <p align="center">
   <a href="https://github.com/Ryanleoncoder">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=Ryanleoncoder&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" 
