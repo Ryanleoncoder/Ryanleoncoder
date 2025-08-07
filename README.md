@@ -1,7 +1,7 @@
 # [Ryan Leonel](https://github.com/Ryanleoncoder)
 
 🎓 Estudante de ADS (conclusão prevista: 2027)  
-💻 Interesse nas áreas de **TI**, **Análise de Dados**, **Automação**, analise e desenvolvimento de sistemas
+💻 Interesse nas áreas de **TI**, **Análise de Dados**, **Automação**, analise e desenvolvimento de sistemas                   
 📊 Conhecimento avançado em **Excel**, **Word**, **PowerPoint** e facilidade com ferramentas digitais  
 🐍 Estudando **Python**, **SQL** e **Power BI**  
 📚 Buscando constantemente novos aprendizados e desafios  
