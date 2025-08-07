@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Ryan Leonel](https://github.com/Ryanleoncoder)
+# [Ryan Leonel](https://github.com/Ryanleoncoder)
 
 🎓 Estudante de ADS (conclusão prevista: 2027)  
 💻 Interesse nas áreas de **TI**, **Análise de Dados** e **Automação**  
@@ -16,11 +16,15 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white)
 
-## 🚀 Projetos e Desafios Recentes
+<details open> 
+ <summary><h2> 🚀 Meus projetos e desafios </h2></summary> 
+  
+<p align="left">
 
 - [Dashboard Xbox Game Pass](https://github.com/Ryanleoncoder/Dashboard_XBOX_GAME_PASS) - Dashboard interativo para análise de assinaturas Xbox Game Pass.
 - [Super Trunfo Pokemon](https://github.com/Ryanleoncoder/Super_trunfo_pokemon) - Super Trunfo versão pokemon (Em desenvolvimento).
 
+</p>
 
 ---
 <div align="center">
