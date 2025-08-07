@@ -9,12 +9,25 @@
 
 ## 🛠️ Tecnologias e ferramentas que uso
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<img align="left" 
+alt="Java" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" 
+alt="Java" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+<img align="left" 
+alt="Java" 
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 ![VBA](https://img.shields.io/badge/-VBA-00A300?style=flat&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white)
+
 
 <details open> 
  <summary><h2> 🚀 Meus projetos e desafios </h2></summary> 
