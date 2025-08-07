@@ -5,7 +5,7 @@
 📊 Conhecimento avançado em **Excel**, **Word**, **PowerPoint** e facilidade com ferramentas digitais  
 🐍 Estudando **Python**, **SQL** e **Power BI**  
 📚 Buscando constantemente novos aprendizados e desafios  
-🤝 Valorizo o trabalho em equipe, sou comunicativo, curioso e comprometido
+
 
 ## 🛠️ Tecnologias e ferramentas que uso
 
