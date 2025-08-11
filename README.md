@@ -35,6 +35,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <p align="left">
 
 - [Dashboard Xbox Game Pass](https://github.com/Ryanleoncoder/Dashboard_XBOX_GAME_PASS) - Dashboard interativo para análise de assinaturas Xbox Game Pass.
+- [Sistema OS oficina](https://github.com/Ryanleoncoder/Sistema-OS-Oficina) Diagrama e script de um Sistema de Ordem de serviço em uma Oficina Mecânica
 - [Super Trunfo Pokemon](https://github.com/Ryanleoncoder/Super_trunfo_pokemon) - Super Trunfo versão pokemon (Em desenvolvimento).
 
 </p>
