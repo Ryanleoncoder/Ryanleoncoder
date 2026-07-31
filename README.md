@@ -8,7 +8,6 @@ Interesse em desenvolvimento de software, arquitetura de sistemas, automação, 
 
 Atualmente construindo:
 -  Experience Connect
--  CR Store
 -  Quick Setup
 
 ---
