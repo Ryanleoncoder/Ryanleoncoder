@@ -1,13 +1,11 @@
 name: Update GitHub Metrics
 
 on:
-  push:
-    branches: [main]
   schedule:
-    # Runs daily at 06:00 UTC
+    # Runs automatically every day at 06:00 UTC — no push needed
     - cron: '0 6 * * *'
   workflow_dispatch:
-    # Allow manual trigger from Actions tab
+    # Manual trigger from Actions tab anytime
 
 jobs:
   generate-metrics:
