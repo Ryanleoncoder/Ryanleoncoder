@@ -1,66 +1,83 @@
 # Ryan Leonel
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=ADS+Student+%7C+Automation+%26+Systems+Development;Building+Experience+Connect;Building+CR+Store;Python+%7C+JavaScript+%7C+Java;Cloud+%7C+Linux+%7C+Databases;Exploring+AI+Agents+and+System+Architecture)](https://github.com/Ryanleoncoder)
+<p align="center">
+  <a href="https://github.com/Ryanleoncoder">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+%7C+Automation+%7C+AI+Systems;Building+CR+Store+%7C+Quick+Setup+VPS;Building+Robinbendit+%7C+Sentury;Python+%7C+JavaScript+%7C+Java;Cloud+%7C+Linux+%7C+Databases;Exploring+AI+Agents+and+System+Architecture" alt="Typing SVG" />
+  </a>
+</p>
 
-Estudante de Análise e Desenvolvimento de Sistemas (2027).
+### About Me
 
-Interesse em desenvolvimento de software, arquitetura de sistemas, automação, inteligência artificial e infraestrutura.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-Atualmente construindo:
--  Experience Connect
--  Quick Setup
-
----
-
-## Tech Stack
-
-### Linguagens
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Cloud & Infraestrutura
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Dados & Automação
-
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+Focused on software development, automation, systems integration, AI architecture, and infrastructure.
 
 ---
 
-## Projetos
+### Tech Stack
 
-###  Experience Connect
-Nova abordagem de aprendizado baseada em experiências práticas, desafios e evolução contínua.
+#### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,java" height="40" alt="Languages" />
+</p>
 
-###  CR Store
-Plataforma de recompensas com carteira virtual, catálogo de produtos e painel administrativo.
+#### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="40" alt="Databases" />
+  <img src="./assets/icons/oracle-database.svg" height="40" alt="Oracle Database" />
+</p>
+
+#### Cloud & Infrastructure
+<p align="left">
+  <img src="./assets/icons/oracle-cloud.svg" height="40" alt="Oracle Cloud" />
+  <img src="https://skillicons.dev/icons?i=azure,linux,docker" height="40" alt="Cloud & Infrastructure" />
+</p>
+
+#### Tools & Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash" height="40" alt="Tools & Development" />
+</p>
+
+#### Data & Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vba" height="40" alt="VBA" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="40" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" height="40" alt="Power BI" />
+</p>
 
 ---
 
-## GitHub Stats
+### Featured Projects
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryanleoncoder&show_icons=true&theme=radical&hide_border=true)
+#### 🛒 CR Store
+Internal rewards platform with virtual wallet, product catalog, campaigns, challenges, rankings and administrative tools.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanleoncoder&layout=compact&theme=radical&hide_border=true)
+#### ⚡ Quick Setup VPS
+CLI that simplifies the initial configuration and security hardening of Linux VPS environments.
+
+#### 🔀 Robinbendit
+Intelligent LLM routing system designed to select the most suitable model for different tasks and workloads.
+
+#### 🤖 Sentury
+AI agent architecture exploring reasoning pipelines, orchestration, memory, skills and controlled tool usage.
+
+---
+
+### GitHub Activity & Metrics
+
+<p align="center">
+  <img src="./assets/metrics/languages-commits.svg" width="48%" alt="Languages I Commit In" />
+  <img src="./assets/metrics/languages-recent.svg" width="48%" alt="My Top Repos" />
+</p>
+
+<p align="center">
+  <img src="./assets/metrics/year-in-code.svg" width="97%" alt="My Year in Code Activity" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHUxdTk5aDZ5bXAwa3k1bXlnemVhcHJ1OWtqNGdzcGRpejNtbHV0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif" width="180" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHUxdTk5aDZ5bXAwa3k1bXlnemVhcHJ1OWtqNGdzcGRpejNtbHV0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif" width="180" alt="Cat drinking coffee" />
 </p>
 
 <p align="center">

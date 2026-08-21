@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title desc">
+  <title id="title">Oracle Cloud style icon</title>
+  <desc id="desc">Custom dark skill-icon tile with a red cloud and white Oracle-style mark.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2B3142"/>
+      <stop offset="1" stop-color="#1E2330"/>
+    </linearGradient>
+    <linearGradient id="cloud" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF4B4B"/>
+      <stop offset="0.5" stop-color="#F5222D"/>
+      <stop offset="1" stop-color="#C8102E"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="1.2" stdDeviation="1.2" flood-color="#000" flood-opacity=".45"/>
+    </filter>
+  </defs>
+
+  <rect width="48" height="48" rx="11" fill="url(#bg)"/>
+
+  <g filter="url(#shadow)">
+    <path d="M15.2 35.4h19.5c4.8 0 8.6-3.7 8.6-8.3 0-4.3-3.3-7.9-7.7-8.3C34.2 14 29.8 10.6 24.6 10.6c-6.1 0-11.1 4.5-11.8 10.2-4.5.8-7.9 4.7-7.9 9.3 0 3 1.5 5.3 3.8 5.3z" fill="url(#cloud)"/>
+    <path d="M15.2 35.4h19.5c4.8 0 8.6-3.7 8.6-8.3" fill="none" stroke="#B80F26" stroke-width="1.1" opacity=".7"/>
+    <rect x="15.7" y="24.3" width="16.6" height="7.4" rx="3.7" fill="#fff"/>
+    <rect x="18.2" y="26.5" width="11.6" height="3" rx="1.5" fill="#D91C2B"/>
+  </g>
+
+  <path d="M16.1 19.6c1.6-3.7 4.7-6 8.5-6 3.2 0 6.2 1.6 7.9 4.3" fill="none" stroke="#FF8A8A" stroke-width="1.2" stroke-linecap="round" opacity=".65"/>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title desc">
+  <title id="title">Oracle Database style icon</title>
+  <desc id="desc">Custom dark skill-icon tile with a red database cylinder and white Oracle-style mark.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2B3142"/>
+      <stop offset="1" stop-color="#1E2330"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FF4B4B"/>
+      <stop offset="0.45" stop-color="#F5222D"/>
+      <stop offset="1" stop-color="#C8102E"/>
+    </linearGradient>
+    <linearGradient id="redTop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF6666"/>
+      <stop offset="1" stop-color="#E5162A"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="1.2" stdDeviation="1.2" flood-color="#000" flood-opacity=".45"/>
+    </filter>
+  </defs>
+
+  <rect width="48" height="48" rx="11" fill="url(#bg)"/>
+
+  <g filter="url(#shadow)">
+    <ellipse cx="24" cy="15.2" rx="12.6" ry="4.9" fill="#A90F23"/>
+    <path d="M11.4 15.2v17.3c0 2.8 5.6 5.1 12.6 5.1s12.6-2.3 12.6-5.1V15.2z" fill="url(#red)"/>
+    <ellipse cx="24" cy="15.2" rx="12.6" ry="4.9" fill="url(#redTop)"/>
+    <ellipse cx="24" cy="15.2" rx="10.7" ry="3.5" fill="#D3132A"/>
+    <path d="M11.7 23.3c2.1 2.2 6.8 3.6 12.3 3.6s10.2-1.4 12.3-3.6" fill="none" stroke="#8D0E20" stroke-width="1.35" opacity=".85"/>
+    <path d="M11.7 30.7c2.1 2.2 6.8 3.6 12.3 3.6s10.2-1.4 12.3-3.6" fill="none" stroke="#8D0E20" stroke-width="1.35" opacity=".85"/>
+
+    <rect x="16.5" y="23.5" width="15" height="7" rx="3.5" fill="#fff"/>
+    <rect x="18.8" y="25.5" width="10.4" height="3" rx="1.5" fill="#D91C2B"/>
+  </g>
+
+  <path d="M13.8 13.6c3.2-2 6.7-2.6 10.2-2.6 3.5 0 7.1.6 10.2 2.6" fill="none" stroke="#FF8A8A" stroke-width="1.1" stroke-linecap="round" opacity=".7"/>
+</svg>
