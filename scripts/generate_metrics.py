@@ -61,16 +61,29 @@ def fetch_graphql(query, variables=None):
 def generate_languages_commits_svg(lang_stats):
     total_bytes = sum(lang_stats.values()) if lang_stats else 1
     
-    # Color map for common languages
+    # Color map for all major programming languages
     colors = {
         "Python": "#3776AB",
         "JavaScript": "#F7DF1E",
-        "Java": "#E76F00",
         "TypeScript": "#3178C6",
         "HTML": "#E34F26",
         "CSS": "#1572B6",
         "Shell": "#89E051",
-        "VBA": "#867DB1"
+        "Java": "#E76F00",
+        "C++": "#F34B7D",
+        "C#": "#178600",
+        "Go": "#00ADD8",
+        "Rust": "#DEA584",
+        "PHP": "#4F5D95",
+        "Ruby": "#701516",
+        "Kotlin": "#A97BFF",
+        "Swift": "#F05138",
+        "Vue": "#41B883",
+        "Dart": "#00B4AB",
+        "Jupyter Notebook": "#DA5B0B",
+        "VBA": "#867DB1",
+        "Dockerfile": "#384D54",
+        "PLsql": "#E34F26"
     }
     
     sorted_langs = sorted(lang_stats.items(), key=lambda x: x[1], reverse=True)
