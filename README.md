@@ -58,12 +58,12 @@ CLI that simplifies the initial configuration and security hardening of Linux VP
 ### GitHub Activity & Metrics
 
 <p align="center">
-  <img src="./assets/metrics/languages-commits.svg" width="48%" alt="Languages I Commit In" />
-  <img src="./assets/metrics/languages-recent.svg" width="48%" alt="My Top Repos" />
+  <img src="https://raw.githubusercontent.com/Ryanleoncoder/github-metrics-cards/main/assets/metrics/languages-commits.svg" width="48%" alt="Languages I Commit In" />
+  <img src="https://raw.githubusercontent.com/Ryanleoncoder/github-metrics-cards/main/assets/metrics/languages-recent.svg" width="48%" alt="My Top Repos" />
 </p>
 
 <p align="center">
-  <img src="./assets/metrics/year-in-code.svg" width="97%" alt="My Year in Code Activity" />
+  <img src="https://raw.githubusercontent.com/Ryanleoncoder/github-metrics-cards/main/assets/metrics/year-in-code.svg" width="97%" alt="My Year in Code Activity" />
 </p>
 
 ---
