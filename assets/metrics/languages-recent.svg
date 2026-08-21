@@ -12,8 +12,6 @@
   <text x="112" y="137" text-anchor="middle" fill="#FFFFFF" font-family="monospace" font-size="9" font-weight="700">JavaScript</text>
   <rect x="160" y="124" width="98" height="18" rx="4" fill="#242832" stroke="#FFC700" stroke-width="1"/>
   <text x="209" y="137" text-anchor="middle" fill="#FFC700" font-family="monospace" font-size="9" font-weight="700">#cx-training</text>
-  <rect x="264" y="124" width="84" height="18" rx="4" fill="#242832" stroke="#FFC700" stroke-width="1"/>
-  <text x="306" y="137" text-anchor="middle" fill="#FFC700" font-family="monospace" font-size="9" font-weight="700">#game-loop</text>
   <rect x="340" y="116" width="130" height="14" rx="3" fill="#2B2B2B" stroke="#444" stroke-width="1"/>
   <rect x="340" y="116" width="130" height="14" rx="3" fill="#FFC700"/>
   <text x="492" y="127" fill="#FFFFFF" font-family="monospace" font-size="12" font-weight="700">48</text>

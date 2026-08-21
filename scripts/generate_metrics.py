@@ -145,22 +145,26 @@ def generate_top_repos_svg(repos_data):
         svg.append(f'  <circle cx="52" cy="{cy}" r="6" fill="{colors_bar[i]}" stroke="#FFFFFF" stroke-width="1.2"/>')
         svg.append(f'  <text x="70" y="{cy-4}" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="800">{name}</text>')
         
-        # Render Primary Language Chip + Topic Tags
+        # Render Primary Language Chip + Topic Tags (capped at x=325 to avoid bar overlap)
         tag_x = 70
         tag_y = cy + 4
+        max_tag_x = 325  # Progress bar starts at x=340, leave 15px gap
         
         # 1. Primary Language Chip (if available)
         primary_lang = languages[0] if languages else None
         if primary_lang:
             l_w = len(primary_lang) * 7 + 14
-            svg.append(f'  <rect x="{tag_x}" y="{tag_y}" width="{l_w}" height="18" rx="4" fill="#2B2B2B" stroke="#555" stroke-width="1"/>')
-            svg.append(f'  <text x="{tag_x + l_w//2}" y="{tag_y+13}" text-anchor="middle" fill="#FFFFFF" font-family="monospace" font-size="9" font-weight="700">{primary_lang}</text>')
-            tag_x += l_w + 6
+            if tag_x + l_w <= max_tag_x:
+                svg.append(f'  <rect x="{tag_x}" y="{tag_y}" width="{l_w}" height="18" rx="4" fill="#2B2B2B" stroke="#555" stroke-width="1"/>')
+                svg.append(f'  <text x="{tag_x + l_w//2}" y="{tag_y+13}" text-anchor="middle" fill="#FFFFFF" font-family="monospace" font-size="9" font-weight="700">{primary_lang}</text>')
+                tag_x += l_w + 6
 
-        # 2. GitHub Topic Tags (#topic)
+        # 2. GitHub Topic Tags (#topic) — only render if they fit
         for t in topics[:2]:
             t_str = f"#{t}"
             t_w = len(t_str) * 7 + 14
+            if tag_x + t_w > max_tag_x:
+                break
             svg.append(f'  <rect x="{tag_x}" y="{tag_y}" width="{t_w}" height="18" rx="4" fill="#242832" stroke="{colors_bar[i]}" stroke-width="1"/>')
             svg.append(f'  <text x="{tag_x + t_w//2}" y="{tag_y+13}" text-anchor="middle" fill="{colors_bar[i]}" font-family="monospace" font-size="9" font-weight="700">{t_str}</text>')
             tag_x += t_w + 6
