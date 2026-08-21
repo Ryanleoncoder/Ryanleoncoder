@@ -190,8 +190,18 @@ def generate_top_repos_svg(repos_data):
 # 3. GENERATE year-in-code.svg (Isometric 120-Day Graph)
 # ==========================================
 def generate_year_in_code_svg(contribution_days):
-    # 5 Months (20 weeks)
-    MONTHS = [("APR", 4), ("MAY", 4), ("JUN", 4), ("JUL", 4), ("AUG / NOW", 4)]
+    now = datetime.now(timezone.utc)
+    month_abbrs = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"]
+    
+    # Dynamically compute last 5 months ending with current month
+    MONTHS = []
+    for i in range(4, -1, -1):
+        # Approximate 30 days per month back
+        target_date = now - timedelta(days=i * 30.5)
+        m_name = month_abbrs[target_date.month - 1]
+        if i == 0:
+            m_name += " / NOW"
+        MONTHS.append((m_name, 4))
     NUM_DAYS = 7
     
     RX = 20.0
