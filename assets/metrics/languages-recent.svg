@@ -7,34 +7,38 @@
   <rect x="448" y="34" width="88" height="30" rx="5" fill="#FFC700" stroke="#0A0A0A" stroke-width="2"/>
   <text x="492" y="54" text-anchor="middle" fill="#0A0A0A" font-family="monospace" font-size="10" font-weight="700">ACTIVE</text>
   <circle cx="52" cy="120" r="6" fill="#FFC700" stroke="#FFFFFF" stroke-width="1.2"/>
-  <text x="70" y="116" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="800">SENTURY</text>
-  <rect x="70" y="124" width="56" height="18" rx="4" fill="#2B2B2B" stroke="#555" stroke-width="1"/>
-  <text x="98" y="137" text-anchor="middle" fill="#FFFFFF" font-family="monospace" font-size="9" font-weight="700">Python</text>
-  <rect x="132" y="124" width="77" height="18" rx="4" fill="#242832" stroke="#FFC700" stroke-width="1"/>
-  <text x="170" y="137" text-anchor="middle" fill="#FFC700" font-family="monospace" font-size="9" font-weight="700">#ai-agent</text>
-  <rect x="215" y="124" width="84" height="18" rx="4" fill="#242832" stroke="#FFC700" stroke-width="1"/>
-  <text x="257" y="137" text-anchor="middle" fill="#FFC700" font-family="monospace" font-size="9" font-weight="700">#reasoning</text>
+  <text x="70" y="116" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="800">EXPERIENCIE CONNECT</text>
+  <rect x="70" y="124" width="84" height="18" rx="4" fill="#2B2B2B" stroke="#555" stroke-width="1"/>
+  <text x="112" y="137" text-anchor="middle" fill="#FFFFFF" font-family="monospace" font-size="9" font-weight="700">JavaScript</text>
+  <rect x="160" y="124" width="98" height="18" rx="4" fill="#242832" stroke="#FFC700" stroke-width="1"/>
+  <text x="209" y="137" text-anchor="middle" fill="#FFC700" font-family="monospace" font-size="9" font-weight="700">#cx-training</text>
+  <rect x="264" y="124" width="84" height="18" rx="4" fill="#242832" stroke="#FFC700" stroke-width="1"/>
+  <text x="306" y="137" text-anchor="middle" fill="#FFC700" font-family="monospace" font-size="9" font-weight="700">#game-loop</text>
   <rect x="340" y="116" width="130" height="14" rx="3" fill="#2B2B2B" stroke="#444" stroke-width="1"/>
   <rect x="340" y="116" width="130" height="14" rx="3" fill="#FFC700"/>
-  <text x="492" y="127" fill="#FFFFFF" font-family="monospace" font-size="12" font-weight="700">47</text>
+  <text x="492" y="127" fill="#FFFFFF" font-family="monospace" font-size="12" font-weight="700">48</text>
   <circle cx="52" cy="180" r="6" fill="#FFE066" stroke="#FFFFFF" stroke-width="1.2"/>
-  <text x="70" y="176" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="800">CR STORE</text>
-  <rect x="70" y="184" width="84" height="18" rx="4" fill="#2B2B2B" stroke="#555" stroke-width="1"/>
-  <text x="112" y="197" text-anchor="middle" fill="#FFFFFF" font-family="monospace" font-size="9" font-weight="700">JavaScript</text>
-  <rect x="160" y="184" width="70" height="18" rx="4" fill="#242832" stroke="#FFE066" stroke-width="1"/>
-  <text x="195" y="197" text-anchor="middle" fill="#FFE066" font-family="monospace" font-size="9" font-weight="700">#rewards</text>
-  <rect x="236" y="184" width="70" height="18" rx="4" fill="#242832" stroke="#FFE066" stroke-width="1"/>
-  <text x="271" y="197" text-anchor="middle" fill="#FFE066" font-family="monospace" font-size="9" font-weight="700">#fintech</text>
+  <text x="70" y="176" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="800">QUICK SETUP VPS</text>
+  <rect x="70" y="184" width="49" height="18" rx="4" fill="#2B2B2B" stroke="#555" stroke-width="1"/>
+  <text x="94" y="197" text-anchor="middle" fill="#FFFFFF" font-family="monospace" font-size="9" font-weight="700">Shell</text>
+  <rect x="125" y="184" width="42" height="18" rx="4" fill="#242832" stroke="#FFE066" stroke-width="1"/>
+  <text x="146" y="197" text-anchor="middle" fill="#FFE066" font-family="monospace" font-size="9" font-weight="700">#cli</text>
+  <rect x="173" y="184" width="147" height="18" rx="4" fill="#242832" stroke="#FFE066" stroke-width="1"/>
+  <text x="246" y="197" text-anchor="middle" fill="#FFE066" font-family="monospace" font-size="9" font-weight="700">#security-hardening</text>
   <rect x="340" y="176" width="130" height="14" rx="3" fill="#2B2B2B" stroke="#444" stroke-width="1"/>
-  <rect x="340" y="176" width="86" height="14" rx="3" fill="#FFE066"/>
-  <text x="492" y="187" fill="#FFFFFF" font-family="monospace" font-size="12" font-weight="700">31</text>
+  <rect x="340" y="176" width="98" height="14" rx="3" fill="#FFE066"/>
+  <text x="492" y="187" fill="#FFFFFF" font-family="monospace" font-size="12" font-weight="700">36</text>
   <circle cx="52" cy="240" r="6" fill="#E5A800" stroke="#FFFFFF" stroke-width="1.2"/>
-  <text x="70" y="236" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="800">ROBINBENDIT</text>
+  <text x="70" y="236" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="15" font-weight="800">ORGANIZADOR DE DEMANDAS</text>
   <rect x="70" y="244" width="56" height="18" rx="4" fill="#2B2B2B" stroke="#555" stroke-width="1"/>
   <text x="98" y="257" text-anchor="middle" fill="#FFFFFF" font-family="monospace" font-size="9" font-weight="700">Python</text>
+  <rect x="132" y="244" width="84" height="18" rx="4" fill="#242832" stroke="#E5A800" stroke-width="1"/>
+  <text x="174" y="257" text-anchor="middle" fill="#E5A800" font-family="monospace" font-size="9" font-weight="700">#dashboard</text>
+  <rect x="222" y="244" width="56" height="18" rx="4" fill="#242832" stroke="#E5A800" stroke-width="1"/>
+  <text x="250" y="257" text-anchor="middle" fill="#E5A800" font-family="monospace" font-size="9" font-weight="700">#flask</text>
   <rect x="340" y="236" width="130" height="14" rx="3" fill="#2B2B2B" stroke="#444" stroke-width="1"/>
-  <rect x="340" y="236" width="61" height="14" rx="3" fill="#E5A800"/>
-  <text x="492" y="247" fill="#FFFFFF" font-family="monospace" font-size="12" font-weight="700">22</text>
+  <rect x="340" y="236" width="68" height="14" rx="3" fill="#E5A800"/>
+  <text x="492" y="247" fill="#FFFFFF" font-family="monospace" font-size="12" font-weight="700">25</text>
   <path d="M340 280 H470" stroke="#454545" stroke-width="1"/>
   <text x="492" y="284" fill="#FFC700" font-family="monospace" font-size="9" font-weight="700">COMMITS</text>
 </svg>

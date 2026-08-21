@@ -410,9 +410,9 @@ def main():
         
     if not repos_list:
         repos_list = [
-            {'name': 'Sentury', 'topics': ['ai-agent', 'reasoning', 'python'], 'languages': ['Python', 'Docker'], 'commits': 47},
-            {'name': 'CR Store', 'topics': ['rewards', 'fintech', 'javascript'], 'languages': ['JavaScript', 'PostgreSQL'], 'commits': 31},
-            {'name': 'Robinbendit', 'topics': [], 'languages': ['Python', 'Docker', 'MySQL'], 'commits': 22}
+            {'name': 'Experiencie Connect', 'topics': ['cx-training', 'game-loop', 'neobrutalism'], 'languages': ['JavaScript', 'HTML', 'CSS'], 'commits': 48},
+            {'name': 'Quick Setup VPS', 'topics': ['cli', 'security-hardening', 'vps'], 'languages': ['Shell', 'Go Template'], 'commits': 36},
+            {'name': 'Organizador De Demandas', 'topics': ['dashboard', 'flask', 'css3'], 'languages': ['Python', 'HTML', 'CSS'], 'commits': 25}
         ]
 
     # Sort repos by commit count
