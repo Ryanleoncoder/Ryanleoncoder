@@ -49,17 +49,9 @@ Focused on software development, automation, systems integration, AI architectur
 
 ### Featured Projects
 
-#### 🛒 CR Store
-Internal rewards platform with virtual wallet, product catalog, campaigns, challenges, rankings and administrative tools.
-
 #### ⚡ Quick Setup VPS
 CLI that simplifies the initial configuration and security hardening of Linux VPS environments.
 
-#### 🔀 Robinbendit
-Intelligent LLM routing system designed to select the most suitable model for different tasks and workloads.
-
-#### 🤖 Sentury
-AI agent architecture exploring reasoning pipelines, orchestration, memory, skills and controlled tool usage.
 
 ---
 
