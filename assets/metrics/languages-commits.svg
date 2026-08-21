@@ -6,24 +6,4 @@
   <text x="39" y="77" fill="#7A7570" font-family="monospace" font-size="11" font-weight="700" letter-spacing="1.2">HISTORICAL SIGNAL</text>
   <rect x="424" y="34" width="112" height="30" rx="5" fill="#FFC700" stroke="#0A0A0A" stroke-width="2"/>
   <text x="480" y="54" text-anchor="middle" fill="#0A0A0A" font-family="monospace" font-size="10" font-weight="700">BY COMMITS</text>
-  <circle cx="52" cy="121" r="6" fill="#F7DF1E" stroke="#0A0A0A" stroke-width="1.5"/>
-  <text x="70" y="126" fill="#0A0A0A" font-family="Arial, sans-serif" font-size="15" font-weight="800">JAVASCRIPT</text>
-  <rect x="195" y="109" width="290" height="16" rx="4" fill="#EAE4D4" stroke="#0A0A0A" stroke-width="1.5"/>
-  <rect x="195" y="109" width="110" height="16" rx="4" fill="#FFC700" stroke="#0A0A0A" stroke-width="1.5"/>
-  <text x="498" y="122" fill="#0A0A0A" font-family="monospace" font-size="12" font-weight="700">38%</text>
-  <circle cx="52" cy="169" r="6" fill="#3776AB" stroke="#0A0A0A" stroke-width="1.5"/>
-  <text x="70" y="174" fill="#0A0A0A" font-family="Arial, sans-serif" font-size="15" font-weight="800">PYTHON</text>
-  <rect x="195" y="157" width="290" height="16" rx="4" fill="#EAE4D4" stroke="#0A0A0A" stroke-width="1.5"/>
-  <rect x="195" y="157" width="78" height="16" rx="4" fill="#FFC700" stroke="#0A0A0A" stroke-width="1.5"/>
-  <text x="498" y="170" fill="#0A0A0A" font-family="monospace" font-size="12" font-weight="700">27%</text>
-  <circle cx="52" cy="217" r="6" fill="#E34F26" stroke="#0A0A0A" stroke-width="1.5"/>
-  <text x="70" y="222" fill="#0A0A0A" font-family="Arial, sans-serif" font-size="15" font-weight="800">HTML</text>
-  <rect x="195" y="205" width="290" height="16" rx="4" fill="#EAE4D4" stroke="#0A0A0A" stroke-width="1.5"/>
-  <rect x="195" y="205" width="44" height="16" rx="4" fill="#FFC700" stroke="#0A0A0A" stroke-width="1.5"/>
-  <text x="498" y="218" fill="#0A0A0A" font-family="monospace" font-size="12" font-weight="700">15%</text>
-  <circle cx="52" cy="265" r="6" fill="#8B8B8B" stroke="#0A0A0A" stroke-width="1.5"/>
-  <text x="70" y="270" fill="#0A0A0A" font-family="Arial, sans-serif" font-size="15" font-weight="800">OTHER</text>
-  <rect x="195" y="253" width="290" height="16" rx="4" fill="#EAE4D4" stroke="#0A0A0A" stroke-width="1.5"/>
-  <rect x="195" y="253" width="61" height="16" rx="4" fill="#FFC700" stroke="#0A0A0A" stroke-width="1.5"/>
-  <text x="498" y="266" fill="#0A0A0A" font-family="monospace" font-size="12" font-weight="700">21%</text>
 </svg>
