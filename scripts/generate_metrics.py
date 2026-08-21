@@ -418,15 +418,13 @@ def main():
                 'commits': commit_count
             })
             
-    # Fallback real language proportions if API unauthenticated rate limit is hit
-    if not lang_bytes:
-        lang_bytes = {
-            "JavaScript": 4500,
-            "Python": 3200,
-            "HTML": 1800,
-            "CSS": 1500,
-            "Shell": 1000
-        }
+    # If rate limited on languages_url, compute dynamic language breakdown from repository primary language metadata
+    if not lang_bytes and repos_raw and isinstance(repos_raw, list):
+        for repo in repos_raw:
+            primary_lang = repo.get('language')
+            if primary_lang:
+                repo_size = repo.get('size', 100)
+                lang_bytes[primary_lang] = lang_bytes.get(primary_lang, 0) + repo_size
         
     if not repos_list:
         repos_list = [
