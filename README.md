@@ -23,9 +23,9 @@ I enjoy building useful tools and understanding how systems work under the hood 
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=python,js,java"
+    src="https://skillicons.dev/icons?i=python,js"
     height="40"
-    alt="Python, JavaScript and Java"
+    alt="Python and JavaScript"
   />
 </p>
 
