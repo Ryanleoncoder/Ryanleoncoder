@@ -91,16 +91,6 @@ I enjoy building useful tools and understanding how systems work under the hood 
 
 ---
 
-## Featured Project
-
-### [Quick Setup VPS](https://github.com/Ryanleoncoder/quick-setup-vps)
-
-Reusable Linux VPS setup and security toolkit for Ubuntu and Debian, covering **SSH hardening, firewall, Fail2ban, Nginx, deployments, key rotation, notifications, and monitoring**.
-
-`Shell` · `Linux` · `Security` · `Automation`
-
----
-
 ## GitHub Activity
 
 <p align="center">
