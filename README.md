@@ -33,9 +33,9 @@ I enjoy building useful tools and understanding how systems work under the hood 
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"
+    src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase"
     height="40"
-    alt="PostgreSQL, MySQL and SQLite"
+    alt="PostgreSQL, MySQL, SQLite and Firebase Firestore"
   />
   <img
     src="./assets/icons/oracle-database.svg"
