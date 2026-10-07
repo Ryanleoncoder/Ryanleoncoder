@@ -95,7 +95,7 @@ I enjoy building useful tools and understanding how systems work under the hood 
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Ryanleoncoder/github-metrics-cards/main/assets/metrics/year-in-code.svg"
+    src="https://raw.githubusercontent.com/Ryanleoncoder/github-metrics-cards/main/assets/metrics/year-in-code.svg?v=real-metrics-20261007"
     width="97%"
     alt="GitHub contribution activity"
   />
@@ -103,12 +103,12 @@ I enjoy building useful tools and understanding how systems work under the hood 
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Ryanleoncoder/github-metrics-cards/main/assets/metrics/languages-commits.svg"
+    src="https://raw.githubusercontent.com/Ryanleoncoder/github-metrics-cards/main/assets/metrics/languages-commits.svg?v=real-metrics-20261007"
     width="48%"
     alt="Languages by commits"
   />
   <img
-    src="https://raw.githubusercontent.com/Ryanleoncoder/github-metrics-cards/main/assets/metrics/languages-recent.svg"
+    src="https://raw.githubusercontent.com/Ryanleoncoder/github-metrics-cards/main/assets/metrics/languages-recent.svg?v=real-metrics-20261007"
     width="48%"
     alt="Recently used languages"
   />
